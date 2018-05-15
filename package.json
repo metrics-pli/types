@@ -1,0 +1,10 @@
+{
+  "name": "@metrics-pli/types",
+  "version": "1.0.0",
+  "description": "Types for Metrics PLI",
+  "main": "index.ts",
+  "repository": "git@github.com:metrics-pli/types.git",
+  "author": "Hans Christian Reinl <info@drublic.de>",
+  "license": "MIT",
+  "private": false
+}
