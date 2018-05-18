@@ -4,9 +4,9 @@ export default interface ResultsetAdvancedInterface {
   url: string;
   audits: Array<{
     id: string;
-    score: number;
+    score: number | boolean;
     displayValue: string;
-    rawValue: string;
+    rawValue: number | boolean;
     description: string;
   }>;
   fullResult: object;
