@@ -6,3 +6,4 @@ export {
   EventContent as EventContent,
 } from "./TestActionInterface";
 export { default as TestInterface } from "./TestInterface";
+export { default as PuppeteerLaunchOptionsInterface } from "./PuppeteerLaunchOptionsInterface";
