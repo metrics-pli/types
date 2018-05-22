@@ -1,6 +1,6 @@
 {
   "name": "@metrics-pli/types",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Types for Metrics PLI",
   "main": "index.ts",
   "repository": "git@github.com:metrics-pli/types.git",
